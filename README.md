@@ -21,15 +21,15 @@ This Bash script provides a lightning-fast and efficient way to scan your networ
 Clone the repository:
 
 ```bash
-git clone https://github.com/giruu/BlitzScan.git
+git clone https://github.com/giruu/ARPHawk.git
 ```
 Navigate to the cloned directory:
 
 ```bash
-cd BlitzScan
+cd ARPHawk
 ```
-1. Make the script executable: `chmod +x BlitzScan.sh`
-2. Run the script: `./BlitzScan.sh`
+1. Make the script executable: `chmod +x ARPHawk.sh`
+2. Run the script: `./ARPHawk.sh`
 3. Follow the prompts to enter the interface and IP range.
 
 ## Dependencies
